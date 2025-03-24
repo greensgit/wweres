@@ -29,4 +29,8 @@ System.out.println("This is Joe branch - working on search");
 private void cancellation() {
 	System.out.println("This is deepti - working on cancellattion");
 }
+
+private void netbanking() {
+	System.out.println("This is selva - working on netbanking");
+}
 }

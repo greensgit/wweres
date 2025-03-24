@@ -34,4 +34,8 @@ private void creditCard() {
 	System.out.println("This is hari - working on credit card");
 }
 
+private void netbanking() {
+	System.out.println("This is selva - working on netbanking");
+}
+
 }
